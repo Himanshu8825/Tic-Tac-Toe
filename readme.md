@@ -5,7 +5,7 @@ Welcome to the Tic Tac Toe Game web application! This classic game is brought to
 ## How to Play
 
 1. **Access the Game:**
-   - Visit the [Tic Tac Toe Game](https://your-game-url.com) website.
+   - Visit the [Tic Tac Toe Game](https://illustrious-tarsier-808121.netlify.app/) website.
 
 2. **Start a Game:**
    - Choose whether you want to play against a friend or against the computer.
